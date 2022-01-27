@@ -1,5 +1,5 @@
 <template>
-<Newlayout/>
+  <Newlayout />
 </template>
 
 <script>
