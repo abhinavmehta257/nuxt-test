@@ -1,3 +1,3 @@
 <template>
-  <h1>new vue component</h1>
+  <h1>this is development branch</h1>
 </template>
